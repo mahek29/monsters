@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+.style{
+  font-family: 'Reggae One', cursive;
+  font-size : 50px;
+  color:#151B54
+  
+}
